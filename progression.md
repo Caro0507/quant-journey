@@ -14,7 +14,7 @@
 - [ ] Chapter 2 — Probability theory
 - [ ] Chapter 3 — Brownian motion
 ### Code
-- [ ] Simulate Brownian motion paths
+- [x] Simulate Brownian motion paths
 - [ ] Simulate Geometric Brownian Motion
 - [ ] Verify martingale property numerically
 ---
